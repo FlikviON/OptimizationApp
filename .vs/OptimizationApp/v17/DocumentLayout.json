@@ -1,7 +1,36 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fesaw\\source\\repos\\OptimizationApp\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\controllers\\mappathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:controllers\\mappathcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\models\\biomesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:models\\biomesetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|c:\\users\\fesaw\\onedrive\\desktop\\\u0443\u043D\u0438\u0432\u0435\u0440\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\optimizationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0A079D7-4F4A-424D-B1B9-B0AEDA29351D}|OptimizationApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +38,102 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-17T18:38:45.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MapPathController.cs",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\Controllers\\MapPathController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MapPathController.cs",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\Controllers\\MapPathController.cs",
+              "RelativeToolTip": "Controllers\\MapPathController.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAIMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:43:57.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-17T17:33:16.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BiomeSetting.cs",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\Models\\BiomeSetting.cs",
+              "RelativeDocumentMoniker": "Models\\BiomeSetting.cs",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\Models\\BiomeSetting.cs",
+              "RelativeToolTip": "Models\\BiomeSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:25:53.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-17T17:26:36.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AppDbContext.cs",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\AppDbContext.cs",
+              "RelativeToolTip": "AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:25:22.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\fesaw\\OneDrive\\Desktop\\\u0423\u041D\u0418\u0412\u0415\u0420\\6 \u0441\u0435\u043C\u0435\u0441\u0442\u0440\\OptimizationApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-17T17:18:43.636Z",
+              "EditorCaption": ""
             }
           ]
         }
